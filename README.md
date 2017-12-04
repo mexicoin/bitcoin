@@ -1,4 +1,4 @@
-mexicoin 
+mexicoin (Peso Mexicano 2.0)
 ====================================
 
 https://mexicoin.info
