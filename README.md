@@ -74,3 +74,9 @@ Translations are periodically pulled from Transifex and merged into the git repo
 
 
 Translators should also subscribe to the
+
+
+
+
+MXC Donations
+12PFYF97qn7DAfzNpjeBXTDqLRGdqWD6MR
