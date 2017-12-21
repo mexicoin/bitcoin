@@ -12,8 +12,10 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network.  is the name of open source
 software which enables the use of this currency.
 
+MexiCoin is an implementation of a Bitcoin full node that embraces Bitcoin's original vision of simple, reliable, low-cost transactions for everyone in the world. Development process
+
 For more information, as well as an immediately useable, binary version of
-the.....  see https://, or read the
+the mexicoin https://www.mexicoin.info
 
 
 License
