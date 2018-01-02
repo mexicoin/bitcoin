@@ -6,8 +6,10 @@ www.mexicoin.info
 
 QUE ES MEXICOIN
 MEXICOIN es una cryptodivisa/activo digital (mejor entendida como AltCoin ó moneda digital) debido a que su diseño se basa en un algoritmo hibrido de Blockchain y sus siglas son (MXC)  
+
 OBJETIVO
 Mexicoin fue diseñada como una cryptodivisa de “amplio espectro”, es decir su objetivo es funcionar primeramente como un instrumento de pago, transaccional y financiero de blockchain y por otra parte ser un activo de valor importante para crowdfounding de proyectos, mercadotecnica de productos y servicios asi como para recaudación de fondos de ayuda social en México.
+
 CARACTERISTICAS
 Nombre: MEXICOIN
 Simbolo Principal: MXC
