@@ -12,16 +12,27 @@ Mexicoin fue diseñada como una cryptodivisa de “amplio espectro”, es decir 
 
 CARACTERISTICAS
 Nombre: MEXICOIN
+
 Simbolo Principal: MXC
+
 Ambito: Internet, P2P, Blockchain, Cryptocurrency, Altcoins entre otros
+
 Sistema Operativo: Linux, POSIX, Windows, OS X
+
 Modelo de Desarrollo: Código abierto, Hibrido, Altcoin
+
 Idea/desarollador: Juan Pablo Rodriguez San Luis/Tecnologia On Line, SA de CV
+
 Género: Computación distribuida
+
 Licencia: Por definir
+
 Escrito en: C++
+
 Cantidad Maxima emitida: 100,000,000 tokens
+
 Tasa de Cambio: Flotante
+
 Valor Inicial:  
 1 MXC= $ 0.5 Usdls
 1 MXC= 0.0003 BTC
