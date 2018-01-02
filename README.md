@@ -1,7 +1,9 @@
 
 
 MEXICOIN (MXC)
+
 www.mexicoin.com.mx
+
 www.mexicoin.info
 
 QUE ES MEXICOIN
