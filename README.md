@@ -110,10 +110,5 @@ Duración de la campaña: abierto
 
 Cantidad Maxima a minar: 100,000,000 tokens
 
-Fundacion MEXICOIN
-
-Mexicoin foundation.org.- Es la fundacion sin fines de lucro, su objetivo principal será la de llevar salud y alegría en niños y adultos con capacidades diferentes, orfanatos o casas hogar,  quienes se encuentren en instituciones de gobierno o privadas de las ciudades mas importantes de México. 
-
-El objetivo de la fundacion es que las donaciones y un porcentaje sobre las comisiones por tasas de cambio de otras cryptomonedas que se obtengan en la ICO, serán para crear y financiar toda la infraestructura administrativa, operativa y de movilidad,  incorporar un equipo de trabajo especializado que se organizará realizando eventos itierantes en todas las ciudades mas importantes del pais, buscando con ello mejorar el estado animico de las personas basados en el concepto de “encontrar la alegria es la forma de vivir mejor”.
 
 
