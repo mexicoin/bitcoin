@@ -9,6 +9,16 @@ www.mexicoin.info
 QUE ES MEXICOIN
 MEXICOIN es una cryptodivisa/activo digital (mejor entendida como AltCoin ó moneda digital) debido a que su diseño se basa en un algoritmo hibrido de Blockchain y sus siglas son (MXC)  
 
+Licencia
+
+Copyright 1/2/2018 Tecnologia On Line, SA de CV/Juan Pablo Rodriguez San Luis.
+
+Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación y fusión. , publicar, distribuir, sublicenciar y / o vender copias del Software, y permitir a las personas a quienes se les proporciona el Software hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o porciones sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO EN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO U OTRO, DERIVADOS, FUERA DEL USO DEL SOFTWARE O EL USO U OTROS TRATADOS EN EL SOFTWARE.
+
 OBJETIVO
 Mexicoin fue diseñada como una cryptodivisa de “amplio espectro”, es decir su objetivo es funcionar primeramente como un instrumento de pago, transaccional y financiero de blockchain y por otra parte ser un activo de valor importante para crowdfounding de proyectos, mercadotecnica de productos y servicios asi como para recaudación de fondos de ayuda social en México.
 
@@ -58,8 +68,6 @@ Blockchain ServiceCentre.- Manufactura de Tokens fincancieros, diseño de contra
 
 ICO centre.- Centro digital información de negocios, para el lanzamiento y fondeo de proyectos de innovacion tecnologica, social y artisticos en México. Esta sección cuenta con su propio canal de radio y TV en Internet que proporcionará toda la informacion sobre el avance de los proyectos en donde los usuarios han invertido o realizado inversiones y donaciones.
 
-ICO
-ICO es un acrónimo que significa Initial Coin Offering, es decir, oferta inicial de moneda. El acrónimo ICO es similar al de IPO, Initial Public Offering (que en español se denomina OPV, es decir oferta pública de venta) término que se utiliza cuando una empresa sale a bolsa y quiere ofrecer las acciones a los posibles inversores a cambio de dinero. Y es que el ICO tiene que ver con la financiación de un proyecto empresarial.
 
 Financiación de la  criptomoneda Mexicoin.
 En el caso de su ICO, lo que se pretende financiar es el nacimiento de la criptomoneda Mexicoin, al estilo de Bitcoin o Ethereum ó de cualquier Altcoin del mercado de blockchain. Se trata de la creación de tokens virtuales escasos, protegidos por criptografía, que tienen un valor debido prescisamente a la escasez y a su demanda.
@@ -109,14 +117,3 @@ Mexicoin foundation.org.- Es la fundacion sin fines de lucro, su objetivo princi
 El objetivo de la fundacion es que las donaciones y un porcentaje sobre las comisiones por tasas de cambio de otras cryptomonedas que se obtengan en la ICO, serán para crear y financiar toda la infraestructura administrativa, operativa y de movilidad,  incorporar un equipo de trabajo especializado que se organizará realizando eventos itierantes en todas las ciudades mas importantes del pais, buscando con ello mejorar el estado animico de las personas basados en el concepto de “encontrar la alegria es la forma de vivir mejor”.
 
 
-LA LICENCIA MIT
-
-Identificador corto SPDX: MIT
-
-Copyright 1/2/2018 Tecnologia On Line, SA de CV/Juan Pablo Rodriguez San Luis.
-
-Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación y fusión. , publicar, distribuir, sublicenciar y / o vender copias del Software, y permitir a las personas a quienes se les proporciona el Software hacerlo, sujeto a las siguientes condiciones:
-
-El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o porciones sustanciales del Software.
-
-EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO EN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO U OTRO, DERIVADOS, FUERA DEL USO DEL SOFTWARE O EL USO U OTROS TRATADOS EN EL SOFTWARE.
