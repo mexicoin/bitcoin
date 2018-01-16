@@ -104,6 +104,19 @@ Cantidad Maxima a minar: 100,000,000 tokens
 
 Fundacion MEXICOIN
 
-Mexicoin foundation.org.- Es la fundacion sin fines de lucro, su objetivo principal será la de llevar salud, alegría y generar bellos recuerdos en personas de la tercera edad, niños y adultos con capacidades diferentes, orfanatos o casas hogar y quienes se encuentren en instituciones de gobierno o privadas de las ciudades mas importantes de México. 
+Mexicoin foundation.org.- Es la fundacion sin fines de lucro, su objetivo principal será la de llevar salud y alegría en niños y adultos con capacidades diferentes, orfanatos o casas hogar,  quienes se encuentren en instituciones de gobierno o privadas de las ciudades mas importantes de México. 
 
-El objetivo de la fundacion es que las donaciones y un  en otras cryptomonedas que se obtengan, serán para crear y financiar toda la infraestructura administrativa, operativa y movil,  incorporarando un equipo de trabajo especializado que se organizará en una especie de “caravana” o grupos itierantes hacia todas las ciudades mas importantes del pais, buscando con ello mejorar el estado animico de las personas basados en el concepto de “encontrar la alegria es la forma de vivir mejor”.
+El objetivo de la fundacion es que las donaciones y un porcentaje sobre las comisiones por tasas de cambio de otras cryptomonedas que se obtengan en la ICO, serán para crear y financiar toda la infraestructura administrativa, operativa y de movilidad,  incorporar un equipo de trabajo especializado que se organizará realizando eventos itierantes en todas las ciudades mas importantes del pais, buscando con ello mejorar el estado animico de las personas basados en el concepto de “encontrar la alegria es la forma de vivir mejor”.
+
+
+LA LICENCIA MIT
+
+Identificador corto SPDX: MIT
+
+Copyright 1/2/2018 Tecnologia On Line, SA de CV/Juan Pablo Rodriguez San Luis.
+
+Se otorga permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y archivos de documentación asociados (el "Software"), para tratar el Software sin restricciones, incluidos, entre otros, los derechos de uso, copia, modificación y fusión. , publicar, distribuir, sublicenciar y / o vender copias del Software, y permitir a las personas a quienes se les proporciona el Software hacerlo, sujeto a las siguientes condiciones:
+
+El aviso de copyright anterior y este aviso de permiso se incluirán en todas las copias o porciones sustanciales del Software.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO EN PARTICULAR Y NO INFRACCIÓN. EN NINGÚN CASO LOS AUTORES O PROPIETARIOS DE DERECHOS DE AUTOR SERÁN RESPONSABLES DE NINGUNA RECLAMACIÓN, DAÑOS U OTRA RESPONSABILIDAD, YA SEA EN UNA ACCIÓN CONTRACTUAL, AGRAVIO U OTRO, DERIVADOS, FUERA DEL USO DEL SOFTWARE O EL USO U OTROS TRATADOS EN EL SOFTWARE.
