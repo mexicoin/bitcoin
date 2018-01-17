@@ -1,5 +1,5 @@
-Building Bitcoin
+Building Mexicoin
 ================
 
 See doc/build-*.md for instructions on building the various
-elements of the Bitcoin Core reference implementation of Bitcoin.
+elements of Tecnologia On Line reference implementation of Mexicoin.
